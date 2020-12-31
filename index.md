@@ -3,7 +3,7 @@ title: Welcome
 layout: default
 ---
 
-## Welcome to GitHub Pages
+## Welcome to GitHub Pagees
 
 You can use the [editor on GitHub](https://github.com/nomasdynamics/rpmmtr_site/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
