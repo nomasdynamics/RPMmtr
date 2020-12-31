@@ -2,12 +2,7 @@
 
 title: Boreal's slice of the Web
 
-permalink: /:title
 
-baseurl: ""
-
-sass: 
-  style: compressed
 
 ### exclude the instructions / write-up in the README.md
 exclude:
