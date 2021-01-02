@@ -5,7 +5,7 @@ include_in_header: false
 ---
 <h1>Legal Disclosure</h1>
 Information in accordance with Section 5 TMG
-<br><br>Wackersberger Str. 72<br>81371 Munich<br>
+<br>Andreas Bartl<br>Wackersberger Str. 72<br>81371 Munich<br>
 <h2>Contact Information</h2>
 Telephone: 00491603333482<br>E-Mail: <a href="mailto:namosdynamic@gmail.com">namosdynamic@gmail.com</a><br>Internet address: <a href="https://github.com/nomasdynamics/RPMmtr/" target="_blank">https://github.com/nomasdynamics/RPMmtr/</a><br><br>
 <h2>Disclaimer</h2>
@@ -15,9 +15,7 @@ accuracy, completeness or topicality. According to statutory provisions, we are 
 our own content on these web pages. In this matter, please note that we are not obliged to monitor 
 the transmitted or saved information of third parties, or investigate circumstances pointing to illegal activity. 
 Our obligations to remove or block the use of information under generally applicable laws remain unaffected by this as per 
-§§ 8 to 10 of the Telemedia Act (TMG).
-
-<br><br>Accountability for links<br>
+§§ 8 to 10 of the Telemedia Act (TMG).><br>Accountability for links<br>
 Responsibility for the content of 
 external links (to web pages of third parties) lies solely with the operators of the linked pages. No violations were 
 evident to us at the time of linking. Should any legal infringement become known to us, we will remove the respective 
