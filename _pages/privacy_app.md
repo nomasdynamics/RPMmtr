@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Privacy Policy
+title: App Privacy Policy
 include_in_header: false
 ---
 Last updated January 2nd 2021
