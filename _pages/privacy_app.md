@@ -6,7 +6,7 @@ include_in_header: false
 Last updated January 2nd 2021
 
 
- ## INTRODUCTION
+ # INTRODUCTION
 
 RPMmtr (“we” or “us” or “our”) respects the privacy of our users (“user” or “you”). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application. Please read this privacy policy carefully.  If you do not agree with the terms of this privacy policy, please do not access the site. 
 
@@ -16,31 +16,31 @@ RPMmtr (“we” or “us” or “our”) respects the privacy of our users (�
 
  This privacy policy was created using Termly.
 
- ## COLLECTION OF YOUR INFORMATION
+ # COLLECTION OF YOUR INFORMATION
 
  We may collect information about you in a variety of ways. The information we may collect in the App includes:
 
- # Mobile Device Data 
+ ## Mobile Device Data 
  Device information, such as your mobile device ID, model, and manufacturer, and information about the location of your device, if you access the Site from a mobile device.
 
- # Mobile Application Information
+ ## Mobile Application Information
 
  - Mobile Device Access. We may request access or permission to certain features from your mobile device, including your mobile device’s microphone. If you wish to change our access or permissions, you may do so in your device’s settings.
  - Mobile Device Data. We may collect device information (such as your mobile device ID, model and manufacturer), operating system, version information.
  - Push Notifications. We may request to send you push notifications regarding your account or the Application. If you wish to opt-out from receiving these types of communications, you may turn them off in your device’s settings.
 
- ## USE OF YOUR INFORMATION 
+ # USE OF YOUR INFORMATION 
 
  Having accurate information about you permits us to provide you with a smooth, efficient, and customized experience.  Specifically, we may use information collected in our mobile application to: 
 
  - Analyse the sound data to estimate the rotational speed. The data will not be transfered to us and will only be used localy on your device. 
 
 
- ## DISCLOSURE OF YOUR INFORMATION
+ # DISCLOSURE OF YOUR INFORMATION
 
  We may share information we have collected about you in certain situations. Your information may be disclosed as follows:  
 
- # By Law or to Protect Rights 
+ ## By Law or to Protect Rights 
  If we believe the release of information about you is necessary to respond to legal process, to investigate or remedy potential violations of our policies, or to protect the rights, property, and safety of others, we may share your information as permitted or required by any applicable law, rule, or regulation.  This includes exchanging information with other entities for fraud protection and credit risk reduction.
 
  We are not responsible for the actions of third parties with whom you share personal or sensitive data, and we have no authority to manage or control third-party solicitations.  If you no longer wish to receive correspondence, emails or other communications from third parties, you are responsible for contacting the third party directly.
@@ -71,7 +71,7 @@ Our mobile application may contain links to third-party websites and application
 
  If you are under 18 years of age, reside in California, and have a registered account with the Site [or our mobile application], you have the right to request removal of unwanted data that you publicly post on the Site [or our mobile application]. To request removal of such data, please contact us using the contact information provided below, and include the email address associated with your account and a statement that you reside in California.  We will make sure the data is not publicly displayed on the Site [or our mobile application], but please be aware that the data may not be completely or comprehensively removed from our systems.
 
- ## CONTACT US
+ # CONTACT US
 
  If you have questions or comments about this Privacy Policy, please contact us at:
 
