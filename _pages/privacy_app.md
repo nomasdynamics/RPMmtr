@@ -75,9 +75,9 @@ If you are under 18 years of age, reside in California, and have a registered ac
 
 If you have questions or comments about this Privacy Policy, please contact us at:
 
-Andreas Bartl
-Wackersberger Str. 72
-81371 Munich
-Germany
-Tel: 00491603333482
+Andreas Bartl  
+Wackersberger Str. 72  
+81371 Munich  
+Germany  
+Tel: 00491603333482  
 namosdynamic@gmail.com
