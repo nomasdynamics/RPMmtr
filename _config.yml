@@ -34,8 +34,8 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Sound based rpm estimation
-    description                           : Rpmmtr uses state of the art pattern recognition & signal  technology to estimate rotational speed
+  - title                                 : Sound based RPM estimation
+    description                           : RPMmtr uses state of the art pattern recognition & signal  technology to estimate rotational speed
     fontawesome_icon_name                 : volume-up
 
     
