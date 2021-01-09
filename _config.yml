@@ -35,8 +35,9 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Sound based rpm estimation
-    description                           : Rpmmtr uses state of the art pattern recognition/ signal  technology to estimate rotational speed
-    fontawesome_icon_name                 : magic
+    description                           : Rpmmtr uses state of the art pattern recognition & signal  technology to estimate rotational speed
+    fontawesome_icon_name                 : volume-up
+
     
   - title                                 : Tracking View
     description                           : ????Preview your app in the context of an iPhone device. Five different device colors included.
