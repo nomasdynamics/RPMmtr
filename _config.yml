@@ -41,11 +41,11 @@ features                                  :
     
   - title                                 : Tracking View
     description                           : ????Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
+    fontawesome_icon_name                 : chart-line
 
   - title                                 : Spectrogram View
     description                           : Frequency distribution of sound power
-    fontawesome_icon_name                 : play-circle
+    fontawesome_icon_name                 : chart-bar
 
 
 # Theme Settings
