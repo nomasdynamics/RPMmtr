@@ -23,4 +23,4 @@ Rpmmtr uses state of the art pattern recognition/ signal  technology to estimate
 # Support
 
 
-If you have any question regarding the functionality or if you want to report problems contact us under [E-Mail](mailto:namosdynamic@gmail.com?subject=[Support_Request])
+If you have any question regarding the functionality or if you want to report problems contact us via [E-Mail](mailto:namosdynamic@gmail.com?subject=[Support_Request])
