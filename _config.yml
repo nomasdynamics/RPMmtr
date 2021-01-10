@@ -40,15 +40,15 @@ features                                  :
 
 
   - title                                 : Tachometer View
-    description                           : Shows the rotational speed at a glance and indicates measurement accuracy with the color of the dent.
+    description                           : Shows the rotational speed at a glance and indicates measurement accuracy with the color of the dent
     fontawesome_icon_name                 : tachometer-alt
 
   - title                                 : Tracking View
-    description                           : Shows RPM changes over time
+    description                           : Shows changes of the roational speed changes over time
     fontawesome_icon_name                 : chart-line
 
   - title                                 : Spectrogram View
-    description                           : Shows the frequency distribution of sound and how the RPM values are estimated and.
+    description                           : Shows the frequency distribution of sound and how the RPM values are estimated
     fontawesome_icon_name                 : chart-bar
 
 
@@ -65,7 +65,7 @@ device_color                              : iphone12                            
 
 body_background_color                     : "#000000"
 
-link_color                                : "#1d63ea"
+link_color                                : "#1F8BFF"
 
 app_title_color                           : "#ffffff"
 app_price_color                           : "#ffffff"
