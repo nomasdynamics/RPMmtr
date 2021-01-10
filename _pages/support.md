@@ -5,16 +5,12 @@ include_in_header: true
 ---
 
 # RPMmtr
-RPM measurement is  useful to measure the state of a machine...
-Rotating machinery  generates characteristic sound patterns . 
-Examples are motors in washing machines, ships and chain saws.
-RPMmtr  analyses these sound patterns to estimate rotational speed in RPM.
-Rpmmtr  analyses these patterns to estimate rotational speed in RPM.
-The color of the dent indicates how clear the measurement is.
-Swipe the red ring and improve the result by specifing the RPM range.
-Also improve the result by specifying the machine type.
-Track RPM over time.
-Experts use the spectrogram view: understand how the algorithm comes to its result.
+Rotating machinery like engines and electric motors can be found in cars, chainsaws, wasching machines and on boats.
+Those devices generate characteristic sound patterns. RPMmtr  analyses these sound patterns to estimate rotational speed in RPM.
+The result of this estimation is sown in three different views. The tachometer view shows the roational speed at a glance.
+The color of the dent indicates how clear the measurement is. You can swipe the red ring control and improve the result by specifing the expected RPM range.
+The tracking view shows the evolution of the rotational speed over time. The accuracy of the measurement is indicated by the size and color of the circles.
+Experts can use the spectrogram view: understand how the algorithm comes to its result.
 
 Axis adjustable with one finger 
 
