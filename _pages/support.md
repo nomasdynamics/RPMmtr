@@ -13,7 +13,7 @@ The tracking view shows the evolution of the rotational speed over time. The acc
 Experts can use the spectrogram view: the graph shows the frequency distribution of the sound. Small arrows show the rotational speed.
 In the tracking view and in the spectrogram view the axes adjustable by a swipe with one finger.
 
-# Notice for usage
+# Notice on usage
 The app can estimate the correct rotational speed only in cases when the sound is clear and the correct type (order of the sound pattern) of the device is given by the user.
 RPMmtr is for educational purposes only. We do not take responsibility for decisions taken by the reader based solely on the information provided in this app. The information contained on the Service is for general information purposes
 only. The Company assumes no responsibility for errors or omissions in the contents
