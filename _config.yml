@@ -38,7 +38,11 @@ features                                  :
     description                           : RPMmtr uses state of the art pattern recognition & signal  technology to estimate rotational speed
     fontawesome_icon_name                 : volume-up
 
-    
+
+  - title                                 : Tachometer View
+    description                           : Shows the rotational speed at a glance and indicates measurement accuracy with the color of the dent.
+    fontawesome_icon_name                 : tachometer-alt
+
   - title                                 : Tracking View
     description                           : Shows RPM changes over time
     fontawesome_icon_name                 : chart-line
