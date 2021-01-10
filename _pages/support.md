@@ -7,5 +7,5 @@ include_in_header: true
 # Support
 
 
-
-[I'm an inline-style link with title](mailto:lunde@adobe.com?subject=[GitHub])
+If you have any question contact us under 
+[E-Mail](mailto:namosdynamic@gmail.com?subject=[Support Request])
