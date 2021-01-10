@@ -40,11 +40,11 @@ features                                  :
 
     
   - title                                 : Tracking View
-    description                           : ????Preview your app in the context of an iPhone device. Five different device colors included.
+    description                           : Shows RPM changes over time
     fontawesome_icon_name                 : chart-line
 
   - title                                 : Spectrogram View
-    description                           : Frequency distribution of sound power
+    description                           : Shows the frequency distribution of sound and how the RPM values are estimated and.
     fontawesome_icon_name                 : chart-bar
 
 
