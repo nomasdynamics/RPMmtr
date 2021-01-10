@@ -44,7 +44,7 @@ features                                  :
     fontawesome_icon_name                 : tachometer-alt
 
   - title                                 : Tracking View
-    description                           : Shows changes of the roational speed changes over time
+    description                           : Shows how the rotational speed changes over time and indicates measurement accuracy 
     fontawesome_icon_name                 : chart-line
 
   - title                                 : Spectrogram View
