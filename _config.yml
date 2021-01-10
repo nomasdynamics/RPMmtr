@@ -75,10 +75,10 @@ feature_title_color                       : "#ffffff"
 feature_text_color                        : "#666666"
 
 feature_icons_foreground_color            : "#1F8BFF"
-feature_icons_background_color            : "#0D0D0D"
+feature_icons_background_color            : "#171717"
 
 social_icons_foreground_color             : "#ffffff"
-social_icons_background_color             : "#0D0D0D"
+social_icons_background_color             : "#171717"
 
 footer_text_color                         : "#666666"
 
