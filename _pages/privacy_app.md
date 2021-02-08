@@ -6,9 +6,9 @@ include_in_header: false
 Last updated January 2nd 2021
 
 
-# INTRODUCTION
+## INTRODUCTION
 
-RPMmtr (“we” or “us” or “our”) respects the privacy of our users (“user” or “you”). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application. Please read this privacy policy carefully.  If you do not agree with the terms of this privacy policy, please do not access the site. 
+This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application. Please read this privacy policy carefully.  If you do not agree with the terms of this privacy policy, please do not access the site. 
 
 We reserve the right to make changes to this Privacy Policy at any time and for any reason.  We will alert you about any changes by updating the “Last Updated” date of this Privacy Policy.  Any changes or modifications will be effective immediately upon posting the updated Privacy Policy on the Site, and you waive the right to receive specific notice of each such change or modification. 
 
@@ -28,10 +28,7 @@ Device information, such as your mobile device ID, model, and manufacturer, and 
 - Mobile Device Access. We may request access or permission to certain features from your mobile device, including your mobile device’s microphone. If you wish to change our access or permissions, you may do so in your device’s settings.
 - Mobile Device Data. We may collect device information (such as your mobile device ID, model and manufacturer), operating system, version information.
 - Push Notifications. We may request to send you push notifications regarding your account or the Application. If you wish to opt-out from receiving these types of communications, you may turn them off in your device’s settings.
-
-# USE OF YOUR INFORMATION 
-
-Having accurate information about you permits us to provide you with a smooth, efficient, and customized experience.  Specifically, we may use information collected in our mobile application to: 
+ Specifically, we may use information collected in our mobile application to: 
 
 - Analyse the sound data to estimate the rotational speed. The data will not be transfered to us and will only be used localy on your device. 
 
